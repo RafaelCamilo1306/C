@@ -5,7 +5,7 @@ sem contar o input do usuário como um termo)*/
 
 int main()
 {
-    int fibonas[11], numStart;
+    int fibonas[11];
     
     printf("Digite um numero para iniciar a sequencia de Fibbonacci: ");
     scanf("%d", &fibonas[0]);
